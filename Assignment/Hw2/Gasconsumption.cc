@@ -1,3 +1,9 @@
+/**
+ *   @file: gasconsumption.cc
+ * @author: Akshay patel
+ *   @date: 05/24/2021
+ *  @brief: c++ program to track a car's gas consumption in town and on a highway.
+ */
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
